@@ -1,6 +1,6 @@
 # RESTAPI
- This project used technologies like Node JS, Express JS, Mongo DB
- By using this anyone can perform CRUD Operation on DataBase of User
+ This project used technologies like Node JS, Express JS, Mongo DB,
+ By using this anyone can perform CRUD Operation on DataBase of User,  
  It also have Express middleware function that logs the request method, URL,access token and timestamp for every request to the server
 
 -------------------------------------------------
